@@ -1,2 +1,2 @@
 # hello-world
-Day 1...data science
+After decades working in genomics...time to lift the curtain and learn to program
